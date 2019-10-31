@@ -1,0 +1,104 @@
+{
+  "team": [
+    {
+      "_id": "5dbac1bab9787a5315333110",
+      "titolare": false,
+      "stipendio": "$3,671.83",
+      "picture": "https://picsum.photos/200",
+      "age": 26,
+      "eyeColor": "brown",
+      "firstname": "Slater",
+      "lastname": "Stone"
+    },
+    {
+      "_id": "5dbac1baae472cb5c8253a72",
+      "titolare": true,
+      "stipendio": "$2,825.99",
+      "picture": "https://picsum.photos/200",
+      "age": 22,
+      "eyeColor": "blue",
+      "firstname": "Jana",
+      "lastname": "King"
+    },
+    {
+      "_id": "5dbac1ba691007874e473ab5",
+      "titolare": true,
+      "stipendio": "$3,353.89",
+      "picture": "https://picsum.photos/200",
+      "age": 30,
+      "eyeColor": "brown",
+      "firstname": "Walter",
+      "lastname": "Espinoza"
+    },
+    {
+      "_id": "5dbac1bab864324280d7e3e4",
+      "titolare": true,
+      "stipendio": "$1,081.69",
+      "picture": "https://picsum.photos/200",
+      "age": 32,
+      "eyeColor": "green",
+      "firstname": "Lesa",
+      "lastname": "Garcia"
+    },
+    {
+      "_id": "5dbac1ba4c46c086a376b0f2",
+      "titolare": false,
+      "stipendio": "$2,833.79",
+      "picture": "https://picsum.photos/200",
+      "age": 30,
+      "eyeColor": "green",
+      "firstname": "Consuelo",
+      "lastname": "Murray"
+    },
+    {
+      "_id": "5dbac1badc2515303406f6ae",
+      "titolare": false,
+      "stipendio": "$2,230.27",
+      "picture": "https://picsum.photos/200",
+      "age": 26,
+      "eyeColor": "brown",
+      "firstname": "Katherine",
+      "lastname": "Branch"
+    },
+    {
+      "_id": "5dbac1ba003d5fda651ad3ea",
+      "titolare": true,
+      "stipendio": "$2,735.78",
+      "picture": "https://picsum.photos/200",
+      "age": 20,
+      "eyeColor": "green",
+      "firstname": "Amy",
+      "lastname": "Williamson"
+    },
+    {
+      "_id": "5dbac1bafe4757ef355828c2",
+      "titolare": true,
+      "stipendio": "$2,906.97",
+      "picture": "https://picsum.photos/200",
+      "age": 25,
+      "eyeColor": "blue",
+      "firstname": "Mosley",
+      "lastname": "Richards"
+    },
+    {
+      "_id": "5dbac1babe1da00edf9e7d74",
+      "titolare": true,
+      "stipendio": "$2,495.24",
+      "picture": "https://picsum.photos/200",
+      "age": 31,
+      "eyeColor": "blue",
+      "firstname": "Sweet",
+      "lastname": "Crosby"
+    },
+    {
+      "_id": "5dbac1ba84dd44353a6c1043",
+      "titolare": false,
+      "stipendio": "$3,992.92",
+      "picture": "https://picsum.photos/200",
+      "age": 33,
+      "eyeColor": "blue",
+      "firstname": "Hatfield",
+      "lastname": "Robles"
+    }
+  ]
+}
