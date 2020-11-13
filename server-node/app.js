@@ -10,6 +10,11 @@ app.get('/api/index', function(req,res) {
  
 });
 
+app.get('/api/lotta', function(req,res) {
+  res.sendFile(path.join(__dirname, 'public/lotta.html'));
+ 
+});
+
 app.listen(3000, function () {
      console.log('Example app listening on port 3000!');
 });
